@@ -6,3 +6,4 @@ val/
 val2/
 VOCdevkit/
 weight_6.hdf5
+weight_2_classes.hdf5
