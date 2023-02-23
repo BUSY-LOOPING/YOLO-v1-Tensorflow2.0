@@ -4,6 +4,6 @@ test/
 test2/
 val/
 val2/
+logs/
 VOCdevkit/
-weight_6.hdf5
-weight_2_classes.hdf5
+weight*.hdf5
