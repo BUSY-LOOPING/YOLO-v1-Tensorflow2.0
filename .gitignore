@@ -1,9 +1,7 @@
 train/
-train2/
 test/
-test2/
 val/
-val2/
 logs/
 VOCdevkit/
 weight*.hdf5
+.ipynb_checkpoints
